@@ -1,0 +1,20 @@
+h1 {
+    color: grey;
+  }
+
+  img {
+    width: 400px;
+  }
+
+  #thirdDiv {
+    background-color: darkgoldenrod;
+    width: 600px;
+    min-height: auto;
+    padding: 50px;
+    border: 10px solid grey;
+  }
+
+  #spanId {
+    font-size: 18px;
+    margin: 50px;
+  }
